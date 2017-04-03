@@ -1,0 +1,66 @@
+Activities
+
+How do you get dressed?
+
+** High **
+1. Put on clothes.
+
+** Medium **
+1. Go to closet.
+2. Select what to wear today.
+3. Take off pajamas.
+4. Put on clothes for today.
+
+** Low **
+1. Walk to your closet.
+2. Open closet doors.
+3. Select clothing to wear today.
+		a. Remove one pair of pants from the closet.
+		b. Remove one shirt from the closet.
+		c. Remove one jacket from the closet.
+4. Take off the clothes you slept in.
+5. Put on clothing items removed from your closet.
+6. Zip all zipper. Button all buttons.
+
+
+How do you buy groceries?
+
+** High **
+1. Go to the grocery store.
+
+** Medium **
+1. Get in your car. Drive to grocery store.
+2. Park car in grocery store parking lot. Turn off car.
+3. Walk into grocery store.
+4. Get a cart and push it with you around the store.
+5. Walk through store aisles, starting on the left side of the store and moving to the right side of the store.
+6. If item you need is on shelf, place item in basket. Repeat step 6 until all items needed are in basket.
+7. Go to a cash register.
+8. Place items on conveyer belt at register.
+9. Be nice to cashier.
+10. Pay for groceries.
+11. Take groceries to car. Place in car trunk.
+12. Get in car. Start car.
+13. Drive home.
+
+
+How do you exercise?
+ ** High **
+ 1. Do yoga.
+
+ ** Medium **
+ 1. Find a yoga video.
+ 2. Start yoga video.
+ 3. Follow along with video.
+
+ ** High **
+ 1. Place yoga mat in middle of room with plenty of space around it.
+ 2. Prop up iPad where it can easily be seen/heard.
+ 3. Navigate to Cody App. Open Cody App.
+ 4. Find a yoga video that interests you. Start video.
+ 5. Stand on mat in appropriate manner.
+ 6. Follow along with video.
+ 7. When video is complete, turn off iPad.
+ 8. Spray and clean mat with water and towel.
+ 9. Roll up mat and store.
+ 10. Be happy.

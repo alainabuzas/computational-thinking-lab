@@ -1,0 +1,45 @@
+Traveling
+
+How do you get to the airport?
+
+** High **
+1. Drive to the airport.
+
+** Medium **
+1. Get in car.
+2. Turn on car.
+3. Drive to airport.
+
+** Low **
+1. Open driver side front door to your car.
+2. Get in the car. Close the door.
+3. Take out your phone. Open Google Maps app.
+4. Look up directions to the airport on Google Maps. Set volume so you can hear directions as you drive. Hit "start trip" in the app.
+5. Set phone in dash holder. (Don't text and drive!)
+6. Put car keys in ignition and turn on the car.
+7. Buckle your seatbelt.
+8. Follow the directions given by Google Maps app to the airport.
+9. Follow signs at the airport to Arrivals.
+10. Look for your friend at Arrivals.
+11. Find your friend at Arrivals. Unlock the passenger side door for friend.
+12. Once friend is in car and buckled, drive home.
+
+
+How do you get to class?
+
+** High **
+1. Take the bus to class.
+
+** Medium **
+1. Get ready for school.
+2. Leave your apartment.
+3. Walk to the bus stop.
+4. Get on the C-Line bus.
+5. Get off the C-Line bus at the first stop after the bridge. This should be 3rd and Seneca.
+6. Walk one block East.
+7. Walk one block North.
+8. Enter the lobby of Seattle Tower.
+9. Press the button to go "up" in the Elevator.
+10. Get in the Elevator. Hit the button for level 3.
+11. Get out of the Elevator at level 3.
+
